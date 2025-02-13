@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-12T15:59:05 IST" name="Default suite" finished-at="2025-02-12T15:59:10 IST" duration-ms="4700">
+    <groups>
+    </groups>
+    <test started-at="2025-02-12T15:59:05 IST" name="Default test" finished-at="2025-02-12T15:59:10 IST" duration-ms="4700">
+      <class name="testcases.TC_002Product_test">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:testcases.TC_002Product_test@7e19ebf0]" started-at="2025-02-12T15:59:05 IST" name="Setup" finished-at="2025-02-12T15:59:07 IST" duration-ms="1676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Product_end()[pri:0, instance:testcases.TC_002Product_test@7e19ebf0]" started-at="2025-02-12T15:59:07 IST" name="Product_end" finished-at="2025-02-12T15:59:10 IST" duration-ms="2998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product_end -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:testcases.TC_002Product_test@7e19ebf0]" started-at="2025-02-12T15:59:10 IST" name="Teardown" finished-at="2025-02-12T15:59:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- testcases.TC_002Product_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
